@@ -9,6 +9,15 @@
   <a href="https://www.instagram.com/jpdravila/"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
+##
+
+<div style="display: inline_block"><br>
+<img align=left width=362 src="https://github-readme-stats.vercel.app/api?username=jpdravila&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
+<img align=right  width=362 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdravila&layout=compact&hide_border=none_count=7&theme=onedark"/>
+</div>
+
+
+
 <div align= "center" >
   
   ![Snake animation](https://github.com/l-lisboa/l-lisboa/blob/output/github-contribution-grid-snake.svg)
